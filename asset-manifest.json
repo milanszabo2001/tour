@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milanszabo2001/tour/static/css/main.abd64e84.css",
+    "main.js": "/milanszabo2001/tour/static/js/main.aca91210.js",
+    "index.html": "/milanszabo2001/tour/index.html",
+    "main.abd64e84.css.map": "/milanszabo2001/tour/static/css/main.abd64e84.css.map",
+    "main.aca91210.js.map": "/milanszabo2001/tour/static/js/main.aca91210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.aca91210.js"
+  ]
+}
